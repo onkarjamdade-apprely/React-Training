@@ -1,0 +1,26 @@
+/* Basic page styling */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Header styling */
+.header {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Content styling */
+.content {
+  padding: 40px;
+  text-align: center;
+  min-height: 150px;
+}
+
+/* Footer styling */
+.footer {
+  background-color: lightgray;
+  padding: 15px;
+  text-align: center;
+}
